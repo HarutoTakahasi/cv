@@ -1,0 +1,165 @@
+                    body {
+                        margin: 0;
+                        font-family: 'Merriweather', serif;
+                    }
+                    
+                    .top {
+                        background-color: hsl(180, 48%, 92%);
+                    }
+                    
+                    h1 {
+                        margin: 0 auto 0 auto;
+                        font-family: 'Sacramento', cursive;
+                        position: relative;
+                        font-size: 70px;
+                        margin: 0;
+                        text-align: center;
+                       
+                    }
+                    
+                    h2 {
+                        
+                        margin: 0;
+                        font-family: 'Montserrat', sans-serif;
+                        text-align: center;
+                    }
+                    
+                    .man {
+                        
+                        margin: 70px auto 30px auto;
+                        height: 100px;
+                        width: 100px;
+                        display: block;
+                    }
+                    
+                    .bottom {
+                        position: relative;
+                        top: 0px;
+                        left: 24%;
+                        margin: 0 auto 0 auto;
+                    }
+                    
+                    .image-holder {
+                        height: 130px;
+                        width: 130px;
+                        background-color: black;
+                        border-radius: 100%;
+                        margin: 30px auto 0 auto;
+                        position: relative;
+                    }
+                    
+                    .intro-content {
+                        position: relative;
+                        top: 80px;
+                        font-size: 2.1rem;
+                       
+                        align-items: center;
+                    }
+                    
+                    .desc {
+                        color: #40514e;
+                       
+                        margin: 4px 0 0 0;
+                        font-size: 1rem;
+                        text-align: center;
+                    }
+                    
+                    .dotted-line {
+                        height: 50px;
+                        width: 10%;
+                        border: 9px #abc3c3;
+                        margin: 30px auto 0 auto;
+                        border-style: none;
+                        border-top-style: dotted;
+                    }
+                    
+                    .skill1 {
+                        
+                        text-align: center;
+                        color: #66bfbf;
+                        font-size: 2rem;
+                        margin-top: 100px;
+                    }
+                    
+                    .skill-row {
+                        width: 50%;
+                        margin: 100px auto 100px auto;
+                        text-align: left;
+                        line-height: 2;
+                    }
+                    
+                    .introskill1,.introskill2 {
+                        margin-top: 71px;
+                        color: #11999e;
+                    }
+                    
+                    .skill1img {
+                        position: relative;
+                        top: 20px;
+                        float: left;
+                        
+                        margin: 0 30px 0 0;
+                    }
+                    
+                    .skill2img {
+                        position: relative;
+                        top: 20px;
+                        float: right;
+                        
+                        margin: 0 30px 0 0;
+                    }
+                    
+                    .get-in-touch {
+                        margin: 40px;
+                    }
+                    
+                    .interest {
+                        text-align: center;
+                    }
+                    
+                    .touchdesc {
+                        width: 50%;
+                        text-align: center;
+                        margin: 0 auto 0 auto;
+                    }
+                    
+                    .ctnbtn {
+                        margin: 0 auto 0 auto;
+                        margin-left: 45%;
+                        width: 10%;
+                        background-color:linear-gradient( #11cdd4, #11999e);
+                         height: 30px;
+                        border-radius: 20px;
+                        margin-bottom: 100px;
+                    }
+                    
+                    ul {
+                        list-style-type: none;
+                        margin: 0 auto 0 auto;
+                        text-align: center;
+                       
+                    }
+                    
+                   li{
+                    display: inline-block;
+                    padding: 15px 0 15px;
+                   }
+                    a{
+                        color: #11999e;
+                        font-family: 'Montserrat', sans-serif;
+                        margin: 10px 20px;
+                        text-decoration: none;
+                    }
+                    a:hover{
+                    color:#eaf6f6;
+                    }
+                    .footer {
+                        background-color:  #66BFBf;
+                        height: 100px;
+                    }
+                    .copyright{
+                        text-align: center;
+                        color:#eaf6f6;
+                        font-size: 0.75rem;
+                        padding: 10px 0;
+                    }
